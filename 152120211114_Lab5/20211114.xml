@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<userList>
+  <user>
+    <ID>20211114</ID>
+    <userType>admin</userType>
+    <userName>talha35</userName>
+    <userSurname>Talha Yılmam</userSurname>
+    <passWord>talha35</passWord>
+    <userMail>tlhylmm@gmail.com</userMail>
+  </user>
+  <user>
+    <ID>12345678</ID>
+    <userType>user</userType>
+    <userName>john26</userName>
+    <userSurname>John Doe</userSurname>
+    <passWord>john26</passWord>
+    <userMail>johndoe@gmail.com</userMail>
+  </user>
+</userList>
